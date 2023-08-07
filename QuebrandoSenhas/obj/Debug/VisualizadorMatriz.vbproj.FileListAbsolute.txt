@@ -1,0 +1,1 @@
+c:\users\joao.marques\documents\visual studio 2012\Projects\VisualizadorMatriz\VisualizadorMatriz\bin\Debug\VisualizadorMatriz.exe.config

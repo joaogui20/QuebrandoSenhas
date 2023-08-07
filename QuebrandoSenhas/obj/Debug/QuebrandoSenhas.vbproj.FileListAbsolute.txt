@@ -1,0 +1,10 @@
+c:\users\joao.marques\documents\visual studio 2012\Projects\VisualizadorMatriz\VisualizadorMatriz\bin\Debug\VisualizadorMatriz.exe.config
+c:\users\joao.marques\documents\visual studio 2012\Projects\VisualizadorMatriz\VisualizadorMatriz\bin\Debug\VisualizadorMatriz.exe
+c:\users\joao.marques\documents\visual studio 2012\Projects\VisualizadorMatriz\VisualizadorMatriz\bin\Debug\VisualizadorMatriz.pdb
+c:\users\joao.marques\documents\visual studio 2012\Projects\VisualizadorMatriz\VisualizadorMatriz\bin\Debug\VisualizadorMatriz.xml
+c:\users\joao.marques\documents\visual studio 2012\Projects\VisualizadorMatriz\VisualizadorMatriz\obj\Debug\VisualizadorMatriz.frmSenhas.resources
+c:\users\joao.marques\documents\visual studio 2012\Projects\VisualizadorMatriz\VisualizadorMatriz\obj\Debug\VisualizadorMatriz.Resources.resources
+c:\users\joao.marques\documents\visual studio 2012\Projects\VisualizadorMatriz\VisualizadorMatriz\obj\Debug\QuebrandoSenhas.vbproj.GenerateResource.Cache
+c:\users\joao.marques\documents\visual studio 2012\Projects\VisualizadorMatriz\VisualizadorMatriz\obj\Debug\VisualizadorMatriz.exe
+c:\users\joao.marques\documents\visual studio 2012\Projects\VisualizadorMatriz\VisualizadorMatriz\obj\Debug\VisualizadorMatriz.xml
+c:\users\joao.marques\documents\visual studio 2012\Projects\VisualizadorMatriz\VisualizadorMatriz\obj\Debug\VisualizadorMatriz.pdb
